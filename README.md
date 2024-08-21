@@ -1,6 +1,7 @@
 ## 🌐 HOLA MUNDO! 
-![Data Scientist](./descargas/imagen.jpg)
- <br><br>
+
+![dataScietints](https://github.com/user-attachments/assets/14a72b89-d0a2-462a-8e35-dedddfa3980b)
+<br><br>
 
 
 ### Busca en mis repositorios si necesitas código de Data Science y escríbeme en LinkedIn para cualquier duda.
