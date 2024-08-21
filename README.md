@@ -1,5 +1,6 @@
 ## 🌐 HOLA MUNDO! 
-![Data Scientist](https://github.com/selincocarca/selincocarca/raw/main/images/data_scientist.png)
+![Data Scientist](https://github.com/selincocarca/selincocarca/raw/main/downloads/data_scientist.png)
+
  <br><br>
 
 
