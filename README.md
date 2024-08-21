@@ -1,5 +1,8 @@
 ## 🌐 HOLA MUNDO! 
-<center> <img src="DSREADME.gif"></center> <br><br>
+<center>
+  <a href="https://data-scientists.example.com" target="_blank">Data Scientists</a>
+</center>
+ <br><br>
 
 
 ### Busca en mis repositorios si necesitas código de Data Science y escríbeme en LinkedIn para cualquier duda.
