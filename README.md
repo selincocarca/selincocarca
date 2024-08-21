@@ -1,12 +1,5 @@
 ## 🌐 HOLA MUNDO! 
-<p align="center">
-  <a href="https://data-scientists.example.com" target="_blank">
-    <img src="data_scientist.png" alt="Data Scientists" width="400">
-  </a>
-</p>
-
-
-
+![Data Scientist](https://github.com/selincocarca/selincocarca/raw/main/images/data_scientist.png)
  <br><br>
 
 
