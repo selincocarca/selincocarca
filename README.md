@@ -1,9 +1,9 @@
 ## 🌐 HOLA MUNDO! 
 <p align="center">
-  <a href="https://data-scientists.example.com" target="_blank">
-    <img src="ruta/a/data_scientist.png" alt="Data Scientists" width="400">
+    <img src="images/data_scientist.png" alt="Data Scientists" width="400">
   </a>
 </p>
+
 
  <br><br>
 
