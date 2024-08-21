@@ -1,6 +1,10 @@
 ## 🌐 HOLA MUNDO! 
 <center>
-  <a href="https://data-scientists.example.com" target="_blank">Data Scientists</a>
+<p align="center">
+    <img src="DSREADME.gif" alt="Data Scientists">
+  </a>
+</p>
+Data Scientists</a>
 </center>
  <br><br>
 
