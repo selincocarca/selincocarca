@@ -23,7 +23,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD500?style=for-the-badge&logo=Huggingface&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=transformers&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
 
 
 ### 🚀 Otros Idiomas <br>
@@ -34,7 +34,7 @@
 ![XSL](https://img.shields.io/badge/XSL-FF2C00?style=for-the-badge&logo=xslt&logoColor=white)
 ![DTD](https://img.shields.io/badge/DTD-8A2BE2?style=for-the-badge&logo=xml&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)<br><br>
-
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ### 🧑🏻‍💻 Herramientas y Plataformas <br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
