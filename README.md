@@ -4,8 +4,6 @@
 <br><br>
 
 
-### Busca en mis repositorios si necesitas código de Data Science y escríbeme en LinkedIn para cualquier duda.
-
 
 ### 💻 Data Science <br><br>
 
